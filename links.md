@@ -9,6 +9,10 @@ http://jeffarchibald.ca/60-hour-work-week-badge-honour/
 
 http://corpsmoderne.itch.io/flappy-space-program
 
+http://mosh.mit.edu/index.html
+
+http://possiblywrong.wordpress.com/2014/02/14/when-approximate-is-better-than-exact/
+
 #Named Links
 
 #Shared Links
