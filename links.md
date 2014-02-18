@@ -19,6 +19,8 @@ http://minimaxir.com/2014/02/glory-to-the-helix/
 
 http://www.worldometers.info/
 
+http://blog.xkcd.com/2014/01/31/the-baby-name-wizard/
+
 #Named Links
 
 #Shared Links
