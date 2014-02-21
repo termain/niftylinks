@@ -1,5 +1,6 @@
 #Raw Links
 
+##2014-02-13
 http://swizec.com/blog/week-15-a-tutorial-on-the-expresiveness-and-universality-of-fold/swizec/6514
 
 http://techblog.netflix.com/2014/02/distributed-neural-networks-with-gpus.html
@@ -23,6 +24,14 @@ http://arstechnica.com/gaming/2014/02/chroma-preview-harmonixs-unexpected-musica
 https://github.com/sharelatex/sharelatex
 
 http://www.krillbite.com/theplan/index.html
+
+http://www.ibtimes.com/lyrics-now-then-history-music-charts-1556137
+
+http://minimaxir.com/2014/02/glory-to-the-helix/
+
+http://www.worldometers.info/
+
+http://blog.xkcd.com/2014/01/31/the-baby-name-wizard/
 
 #Named Links
 
