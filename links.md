@@ -33,6 +33,16 @@ http://www.worldometers.info/
 
 http://blog.xkcd.com/2014/01/31/the-baby-name-wizard/
 
+http://scienceprimer.com/punnett-square-calculator
+
+http://mashable.com/2014/02/19/robot-turtles-board-game/
+
+http://www.newyorker.com/reporting/2014/03/03/140303fa_fact_khatchadourian?currentPage=all
+
+https://news.ycombinator.com/item?id=7297750
+
+http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence.html
+
 #Named Links
 
 #Shared Links
