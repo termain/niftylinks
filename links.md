@@ -43,6 +43,24 @@ https://news.ycombinator.com/item?id=7297750
 
 http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence.html
 
+https://wiki.mpi-sws.org/star/paramore
+
+http://www.ted.com/talks/abraham_verghese_a_doctor_s_touch
+
+http://betaboston.com/news/2014/03/05/a-vast-hidden-surveillance-network-runs-across-america-powered-by-the-repo-industry/
+
+http://news.illinois.edu/news/14/0303cahokia_ThomasEmerson.html
+
+http://spectrum.ieee.org/automaton/robotics/aerial-robots/every-quadrotor-needs-this-amazing-failsafe-software
+
+http://www.nytimes.com/2014/03/04/science/when-trilobites-ruled-the-world.html?_r=1
+
+http://ericlippert.com/2014/03/05/how-to-debug-small-programs/
+
+http://priceonomics.com/the-invention-of-the-aeropress/
+
+http://arstechnica.com/gaming/2014/03/manhattancraft-the-quest-to-make-a-full-size-city-of-minecraft-blocks/
+
 #Named Links
 
 #Shared Links
