@@ -61,6 +61,10 @@ http://priceonomics.com/the-invention-of-the-aeropress/
 
 http://arstechnica.com/gaming/2014/03/manhattancraft-the-quest-to-make-a-full-size-city-of-minecraft-blocks/
 
+http://www.theguardian.com/books/2014/mar/06/fur-flies-rocket-cats-warfare-manual
+
+http://www.reddit.com/r/AskHistorians/comments/1zmkic/how_hard_was_it_to_supply_arrows_to_archers_in/cfuzz3e
+
 #Named Links
 
 #Shared Links
