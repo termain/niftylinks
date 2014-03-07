@@ -65,6 +65,12 @@ http://www.theguardian.com/books/2014/mar/06/fur-flies-rocket-cats-warfare-manua
 
 http://www.reddit.com/r/AskHistorians/comments/1zmkic/how_hard_was_it_to_supply_arrows_to_archers_in/cfuzz3e
 
+https://news.ycombinator.com/item?id=7355449
+
+http://aviation.stackexchange.com/
+
+http://blog.chron.com/sciguy/2014/03/heres-why-the-europa-mission-is-real-and-could-very-well-happen/#21279101=0
+
 #Named Links
 
 #Shared Links
