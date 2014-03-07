@@ -81,6 +81,8 @@ http://blog.chron.com/sciguy/2014/03/heres-why-the-europa-mission-is-real-and-co
 
 https://github.com/2sb18/lego-gears
 
+http://www.dronehire.org/blog/drone-operators-free-to-operate-commercially-in-us-airspace-rules-federal-judge
+
 #Named Links
 
 #Shared Links
