@@ -33,6 +33,14 @@ http://www.worldometers.info/
 
 http://blog.xkcd.com/2014/01/31/the-baby-name-wizard/
 
+https://news.ycombinator.com/item?id=7278214
+
+http://createdigitalmusic.com/2014/02/best-sounding-brass-instrument-tech-makes-sound-yamahas-latest-silent-brass/
+
+http://www.xojane.com/sex/duke-university-freshman-porn-star
+
+http://www.reddit.com/r/compsci/comments/1yyqgd/if_i_went_back_in_time_45_years_and_gave_one_of/
+
 #Named Links
 
 #Shared Links
