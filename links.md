@@ -89,6 +89,8 @@ http://www.wimp.com/tornadodemonstration/
 
 http://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami
 
+http://www.ericweisstein.com/encyclopedias/books/
+
 #Named Links
 
 #Shared Links
