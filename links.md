@@ -85,6 +85,10 @@ http://www.dronehire.org/blog/drone-operators-free-to-operate-commercially-in-us
 
 http://www.flightradar24.com/
 
+http://www.wimp.com/tornadodemonstration/
+
+http://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origami
+
 #Named Links
 
 #Shared Links
