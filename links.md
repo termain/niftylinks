@@ -91,6 +91,8 @@ http://www.ted.com/talks/manu_prakash_a_50_cent_microscope_that_folds_like_origa
 
 http://www.ericweisstein.com/encyclopedias/books/
 
+http://www.whizzpast.com/10-sci-fi-short-story-collections-will-blow-mind/
+
 #Named Links
 
 #Shared Links
