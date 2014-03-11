@@ -93,6 +93,14 @@ http://www.ericweisstein.com/encyclopedias/books/
 
 http://www.whizzpast.com/10-sci-fi-short-story-collections-will-blow-mind/
 
+https://news.ycombinator.com/item?id=7372414
+
+http://stevegattuso.me/2014/03/09/hardware-revolution.html
+
+http://blog.httrack.com/blog/2014/03/09/what-are-your-gcc-flags/
+
+http://www.giantfreakinrobot.com/scifi/space-station-76-channels-seventiesstyle-scifi-finds-home-sony.html
+
 #Named Links
 
 #Shared Links
