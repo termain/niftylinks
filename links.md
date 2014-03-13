@@ -101,6 +101,18 @@ http://blog.httrack.com/blog/2014/03/09/what-are-your-gcc-flags/
 
 http://www.giantfreakinrobot.com/scifi/space-station-76-channels-seventiesstyle-scifi-finds-home-sony.html
 
+http://fabiensanglard.net/Computer_Graphics_Principles_and_Practices/index.php
+    * https://news.ycombinator.com/item?id=7384392
+
+http://www.nature.com/news/energy-islands-of-light-1.14860
+
+http://www.theatlantic.com/business/archive/2014/03/my-life-as-a-retail-worker-nasty-brutish-and-cheap/284332/
+
+http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/
+
+http://www.reddit.com/r/math/comments/208hq2/everything_about_functional_analysis/
+
+http://www.reddit.com/r/science/comments/20b7v9/science_ama_series_were_professors_in_the/
 #Named Links
 
 #Shared Links
