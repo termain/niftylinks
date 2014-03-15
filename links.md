@@ -121,6 +121,10 @@ https://news.ycombinator.com/item?id=7398308
 https://news.ycombinator.com/item?id=7398349
 
 https://medium.com/mother-jones/4e7657ff4838
+
+http://www.ibm.com/developerworks/opensource/library/os-physicsengines/
+
+https://www.youtube.com/watch?v=QEFhEPDtizc&list=PLBCFA347CE84FD2A9
 #Named Links
 
 #Shared Links
