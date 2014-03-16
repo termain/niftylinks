@@ -113,6 +113,14 @@ http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-uni
 http://www.reddit.com/r/math/comments/208hq2/everything_about_functional_analysis/
 
 http://www.reddit.com/r/science/comments/20b7v9/science_ama_series_were_professors_in_the/
+
+http://jvns.ca/blog/2014/03/12/the-rust-os-story/
+
+https://news.ycombinator.com/item?id=7398308
+
+https://news.ycombinator.com/item?id=7398349
+
+https://medium.com/mother-jones/4e7657ff4838
 #Named Links
 
 #Shared Links
