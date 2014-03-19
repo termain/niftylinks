@@ -125,6 +125,10 @@ https://medium.com/mother-jones/4e7657ff4838
 http://www.ibm.com/developerworks/opensource/library/os-physicsengines/
 
 https://www.youtube.com/watch?v=QEFhEPDtizc&list=PLBCFA347CE84FD2A9
+
+http://www.theatlantic.com/politics/archive/2014/03/why-isnt-the-fourth-amendment-classified-as-top-secret/284439/
+
+http://lolyard.com/4048/australian-world-map
 #Named Links
 
 #Shared Links
