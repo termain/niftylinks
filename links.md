@@ -153,6 +153,12 @@ https://www.youtube.com/watch?v=bf7BXwVeyWw
 http://www.preservedaxisaircraft.com/Luftwaffe/relics/Relics%20Messerschmitt.htm
 
 http://videlalvaro.github.io/2014/03/the-power-algorithm.html
+
+http://www.reddit.com/r/programming/comments/20tog2/unreal_engine_4_is_out/
+
+http://billmill.org/roundbracket/
+
+http://haxe.org/
 #Named Links
 
 #Shared Links
