@@ -121,6 +121,38 @@ https://news.ycombinator.com/item?id=7398308
 https://news.ycombinator.com/item?id=7398349
 
 https://medium.com/mother-jones/4e7657ff4838
+
+http://theaigames.com/competitions/warlight-ai-challenge
+
+http://ccodearchive.net/
+
+http://fivethirtyeight.com/features/how-statisticians-could-help-find-flight-370/
+
+http://arstechnica.com/information-technology/2014/03/gears-of-war-when-mechanical-analog-computers-ruled-the-waves/
+
+http://arstechnica.com/gaming/2014/03/rescape-wants-to-turn-the-world-around-you-into-a-first-person-shooter/
+
+http://www.nytimes.com/2014/03/18/science/the-challenge-how-to-keep-fusion-going-long-enough.html?_r=0
+
+http://arstechnica.com/tech-policy/2014/03/us-intelligence-oversight-group-from-1975-says-things-are-way-worse-now/
+
+http://arstechnica.com/gadgets/2014/03/future-food-soylent-delayed-again-now-arriving-in-mid-to-late-april/
+
+http://arstechnica.com/gadgets/2013/10/a-computerized-beer-machine-takes-the-legwork-out-of-home-brewing/
+
+http://arstechnica.com/science/2014/03/is-the-universe-lopsided/
+
+http://arstechnica.com/science/2014/03/big-rumors-circulating-about-detection-of-primordial-gravity-waves/
+
+http://arstechnica.com/information-technology/2014/03/how-to-set-up-your-own-private-instant-messaging-server/
+
+http://www.acm.org/news/featured/awards/turing-award-2013
+
+https://www.youtube.com/watch?v=bf7BXwVeyWw
+
+http://www.preservedaxisaircraft.com/Luftwaffe/relics/Relics%20Messerschmitt.htm
+
+http://videlalvaro.github.io/2014/03/the-power-algorithm.html
 #Named Links
 
 #Shared Links
