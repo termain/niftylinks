@@ -129,6 +129,14 @@ https://www.youtube.com/watch?v=QEFhEPDtizc&list=PLBCFA347CE84FD2A9
 http://www.theatlantic.com/politics/archive/2014/03/why-isnt-the-fourth-amendment-classified-as-top-secret/284439/
 
 http://lolyard.com/4048/australian-world-map
+
+https://www.youtube.com/user/thang010146/videos?view=0&flow=grid
+
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+
+http://www.mavericklsa.com/specifications.html
+
+http://wiki.creativecommons.org/Books
 #Named Links
 
 #Shared Links
