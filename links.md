@@ -159,6 +159,12 @@ http://www.reddit.com/r/programming/comments/20tog2/unreal_engine_4_is_out/
 http://billmill.org/roundbracket/
 
 http://haxe.org/
+
+http://www.joelonsoftware.com/articles/LeakyAbstractions.html
+
+https://www.coursera.org/specialization/jhudatascience/1
+
+https://news.ycombinator.com/item?id=7430946
 #Named Links
 
 #Shared Links
