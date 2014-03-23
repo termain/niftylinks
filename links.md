@@ -124,6 +124,24 @@ https://medium.com/mother-jones/4e7657ff4838
 
 http://theaigames.com/competitions/warlight-ai-challenge
 
+http://www.ibm.com/developerworks/opensource/library/os-physicsengines/
+
+https://www.youtube.com/watch?v=QEFhEPDtizc&list=PLBCFA347CE84FD2A9
+
+http://www.theatlantic.com/politics/archive/2014/03/why-isnt-the-fourth-amendment-classified-as-top-secret/284439/
+
+http://lolyard.com/4048/australian-world-map
+
+https://www.youtube.com/user/thang010146/videos?view=0&flow=grid
+
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+
+http://www.mavericklsa.com/specifications.html
+
+http://wiki.creativecommons.org/Books
+
+http://theaigames.com/competitions/warlight-ai-challenge
+
 http://ccodearchive.net/
 
 http://fivethirtyeight.com/features/how-statisticians-could-help-find-flight-370/
