@@ -183,6 +183,12 @@ http://www.joelonsoftware.com/articles/LeakyAbstractions.html
 https://www.coursera.org/specialization/jhudatascience/1
 
 https://news.ycombinator.com/item?id=7430946
+
+https://news.ycombinator.com/item?id=4753117
+
+https://news.ycombinator.com/item?id=7450140
+
+http://lawcomic.net/
 #Named Links
 
 #Shared Links
