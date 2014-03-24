@@ -189,6 +189,8 @@ https://news.ycombinator.com/item?id=4753117
 https://news.ycombinator.com/item?id=7450140
 
 http://lawcomic.net/
+
+http://www.reddit.com/r/science/comments/2171zw/electric_thinking_cap_controls_learning_speed_a/
 #Named Links
 
 #Shared Links
