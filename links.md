@@ -191,6 +191,8 @@ https://news.ycombinator.com/item?id=7450140
 http://lawcomic.net/
 
 http://www.reddit.com/r/science/comments/2171zw/electric_thinking_cap_controls_learning_speed_a/
+
+http://otobrglez.opalab.com/ruby/2014/03/23/simple-ruby-recommendation-system.html
 #Named Links
 
 #Shared Links
