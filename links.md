@@ -193,6 +193,8 @@ http://lawcomic.net/
 http://www.reddit.com/r/science/comments/2171zw/electric_thinking_cap_controls_learning_speed_a/
 
 http://otobrglez.opalab.com/ruby/2014/03/23/simple-ruby-recommendation-system.html
+
+http://www.rockpapershotgun.com/2010/11/02/genetic-algorithms-find-build-order-from-hell/
 #Named Links
 
 #Shared Links
