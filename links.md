@@ -195,6 +195,10 @@ http://www.reddit.com/r/science/comments/2171zw/electric_thinking_cap_controls_l
 http://otobrglez.opalab.com/ruby/2014/03/23/simple-ruby-recommendation-system.html
 
 http://www.rockpapershotgun.com/2010/11/02/genetic-algorithms-find-build-order-from-hell/
+
+http://entity-systems-wiki.t-machine.org/
+
+http://colinbookman.com/2014/03/23/micio/
 #Named Links
 
 #Shared Links
