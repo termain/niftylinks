@@ -204,6 +204,14 @@ http://colinbookman.com/2014/03/23/micio/
 https://www.youtube.com/watch?v=w-CK8VxMz9g
 
 https://keybase.io
+
+http://www.realclearscience.com/blog/2014/03/the_muslim_scientist_who_birthed_the_scientific_method.html
+
+http://youarenotsosmart.com/2013/05/23/survivorship-bias/
+
+http://www.redbubble.com/people/bradclr3/works/10432108-math-saves-lives?p=poster&SSAID=314743
+
+https://en.wikipedia.org/wiki/New_Connecticut
 #Named Links
 
 #Shared Links
