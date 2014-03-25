@@ -212,6 +212,8 @@ http://youarenotsosmart.com/2013/05/23/survivorship-bias/
 http://www.redbubble.com/people/bradclr3/works/10432108-math-saves-lives?p=poster&SSAID=314743
 
 https://en.wikipedia.org/wiki/New_Connecticut
+
+http://we.narify.com/
 #Named Links
 
 #Shared Links
