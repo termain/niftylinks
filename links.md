@@ -189,6 +189,8 @@ https://news.ycombinator.com/item?id=4753117
 https://news.ycombinator.com/item?id=7450140
 
 http://lawcomic.net/
+
+https://www.youtube.com/watch?v=w-CK8VxMz9g
 #Named Links
 
 #Shared Links
