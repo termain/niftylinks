@@ -217,6 +217,8 @@ http://www.redbubble.com/people/bradclr3/works/10432108-math-saves-lives?p=poste
 https://en.wikipedia.org/wiki/New_Connecticut
 
 http://we.narify.com/
+
+http://gameprogrammingpatterns.com/bytecode.html
 #Named Links
 
 #Shared Links
