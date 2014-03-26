@@ -199,6 +199,10 @@ http://www.rockpapershotgun.com/2010/11/02/genetic-algorithms-find-build-order-f
 http://entity-systems-wiki.t-machine.org/
 
 http://colinbookman.com/2014/03/23/micio/
+
+http://www.washingtonpost.com/blogs/wonkblog/wp/2014/03/24/what-women-want-on-the-dance-floor-according-to-science/
+
+http://www.wildserbia.com/images/stories/krubera_profile_large.gif
 #Named Links
 
 #Shared Links
