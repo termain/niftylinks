@@ -227,6 +227,10 @@ http://spectrum.ieee.org/aerospace/space-flight/titan-calling
 https://news.ycombinator.com/item?id=7480806
 
 https://news.ycombinator.com/item?id=7480380
+
+http://io9.com/remember-inside-ufo-54-40-the-unwinnable-choose-your-o-1552187271
+
+http://techblog.rosedu.org/fp-dragons.html
 #Named Links
 
 #Shared Links
