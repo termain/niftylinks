@@ -235,6 +235,8 @@ http://techblog.rosedu.org/fp-dragons.html
 https://news.ycombinator.com/item?id=7474600
 
 http://www.lammertbies.nl/comm/info/ascii-characters.html
+
+http://billiob.net/blog/20140330_vgdb.html
 #Named Links
 
 #Shared Links
