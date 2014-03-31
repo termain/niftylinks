@@ -224,6 +224,14 @@ http://blog.britishnewspaperarchive.co.uk/wp-content/uploads/sites/9/2012/08/hot
 
 http://spectrum.ieee.org/aerospace/space-flight/titan-calling
 
+https://news.ycombinator.com/item?id=7480806
+
+https://news.ycombinator.com/item?id=7480380
+
+http://io9.com/remember-inside-ufo-54-40-the-unwinnable-choose-your-o-1552187271
+
+http://techblog.rosedu.org/fp-dragons.html
+
 https://news.ycombinator.com/item?id=7474600
 
 http://www.lammertbies.nl/comm/info/ascii-characters.html
