@@ -223,6 +223,10 @@ http://gameprogrammingpatterns.com/bytecode.html
 http://blog.britishnewspaperarchive.co.uk/wp-content/uploads/sites/9/2012/08/hot-air-baloon-duel-1808.jpg
 
 http://spectrum.ieee.org/aerospace/space-flight/titan-calling
+
+https://news.ycombinator.com/item?id=7474600
+
+http://www.lammertbies.nl/comm/info/ascii-characters.html
 #Named Links
 
 #Shared Links
