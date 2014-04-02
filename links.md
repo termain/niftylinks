@@ -241,6 +241,8 @@ http://billiob.net/blog/20140330_vgdb.html
 http://code.google.com/p/flyback/
 
 http://www.npr.org/blogs/parallels/2014/04/02/297839429/-so-you-think-youre-smarter-than-a-cia-agent
+
+http://www.economist.com/news/21589145-how-sort-best-rest-whos-good-forecasts
 #Named Links
 
 #Shared Links
