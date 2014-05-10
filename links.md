@@ -243,6 +243,34 @@ http://code.google.com/p/flyback/
 http://www.npr.org/blogs/parallels/2014/04/02/297839429/-so-you-think-youre-smarter-than-a-cia-agent
 
 http://www.economist.com/news/21589145-how-sort-best-rest-whos-good-forecasts
+
+https://news.ycombinator.com/item?id=7530427
+
+https://news.ycombinator.com/item?id=7530288
+
+https://news.ycombinator.com/item?id=7528597
+
+https://news.ycombinator.com/item?id=7527685
+
+http://ansuz.sooke.bc.ca/entry/23
+
+https://www.coursera.org/course/mathphil
+
+http://www.hardkernel.com/main/products/prdt_info.php
+
+http://techcrunch.com/2014/04/03/intel-releases-99-minnowboard-max-an-open-source-single-board-computer/?utm_campaign=fb&ncid=fb
+
+http://www.crowdsupply.com/kosagi/novena-open-laptop
+
+https://news.ycombinator.com/item?id=7533368
+
+http://mentallandscape.com/V_Venus.htm
+
+http://projectnaptha.com/
+
+https://news.ycombinator.com/item?id=7628198
+
+http://www.reddit.com/r/news/comments/23oji9/us_supreme_court_votes_72_that_states_may_end/cgzazom
 #Named Links
 
 #Shared Links
