@@ -271,6 +271,10 @@ http://projectnaptha.com/
 https://news.ycombinator.com/item?id=7628198
 
 http://www.reddit.com/r/news/comments/23oji9/us_supreme_court_votes_72_that_states_may_end/cgzazom
+
+http://www.kumar.vc/tesla-would-cry-about-these-ic-designs/
+
+http://aeon.co/magazine/world-views/logic-of-buddhist-philosophy/
 #Named Links
 
 #Shared Links
