@@ -275,6 +275,8 @@ http://www.reddit.com/r/news/comments/23oji9/us_supreme_court_votes_72_that_stat
 http://www.kumar.vc/tesla-would-cry-about-these-ic-designs/
 
 http://aeon.co/magazine/world-views/logic-of-buddhist-philosophy/
+
+http://alcatel-lucent.com/bstj/
 #Named Links
 
 #Shared Links
