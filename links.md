@@ -277,6 +277,10 @@ http://www.kumar.vc/tesla-would-cry-about-these-ic-designs/
 http://aeon.co/magazine/world-views/logic-of-buddhist-philosophy/
 
 http://alcatel-lucent.com/bstj/
+
+https://news.ycombinator.com/item?id=7864525
+
+https://news.ycombinator.com/item?id=7864521
 #Named Links
 
 #Shared Links
